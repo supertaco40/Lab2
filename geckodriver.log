@@ -1,0 +1,1081 @@
+1681377821458	geckodriver	INFO	Listening on 127.0.0.1:49160
+1681377887913	geckodriver	INFO	Listening on 127.0.0.1:49185
+1681377937341	geckodriver	INFO	Listening on 127.0.0.1:49201
+1681378008366	geckodriver	INFO	Listening on 127.0.0.1:49217
+1681378062541	geckodriver	INFO	Listening on 127.0.0.1:49231
+1681378076079	geckodriver	INFO	Listening on 127.0.0.1:49242
+1681378102681	geckodriver	INFO	Listening on 127.0.0.1:49254
+1681378148493	geckodriver	INFO	Listening on 127.0.0.1:49267
+1681378296976	geckodriver	INFO	Listening on 127.0.0.1:49698
+1681378439748	geckodriver	INFO	Listening on 127.0.0.1:49960
+1681378630882	geckodriver	INFO	Listening on 127.0.0.1:50158
+1681378700609	geckodriver	INFO	Listening on 127.0.0.1:50356
+1681378935426	geckodriver	INFO	Listening on 127.0.0.1:51130
+1681378983152	geckodriver	INFO	Listening on 127.0.0.1:51146
+1681379308106	geckodriver	INFO	Listening on 127.0.0.1:51198
+1681398816680	geckodriver	INFO	Listening on 127.0.0.1:53460
+1681400005896	geckodriver	INFO	Listening on 127.0.0.1:58198
+1681400009193	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofile4ZVlDB"
+*** You are running in headless mode.
+1681400074189	geckodriver	INFO	Listening on 127.0.0.1:58330
+1681400077454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileqchzU6"
+*** You are running in headless mode.
+1681400080206	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681400080876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681400080876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681400080876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681400080876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681400100145	Marionette	INFO	Listening on port 58352
+DevTools listening on true
+1681400100802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1681400118517	Marionette	INFO	Stopped listening on port 58352
+1681400158963	geckodriver	INFO	Listening on 127.0.0.1:58452
+1681400162506	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileTU1Tey"
+*** You are running in headless mode.
+1681400164180	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681400164440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681400164440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681400164441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681400164441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681400173090	Marionette	INFO	Listening on port 58458
+DevTools listening on true
+1681400180657	geckodriver	INFO	Listening on 127.0.0.1:58489
+1681400183875	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofile1qV4HZ"
+*** You are running in headless mode.
+1681400186767	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681400187386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681400187386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681400187386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681400187386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681400195698	Marionette	INFO	Listening on port 58505
+DevTools listening on true
+1681400196266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 1792, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681439306156	Marionette	INFO	Stopped listening on port 58505
+t: Invalid extension permission: resource://pdf.js/
+1681400335324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681400340966	Marionette	INFO	Listening on port 58627
+DevTools listening on true
+1681400341133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 11024, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 11024, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 11024, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 11024, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 11024, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11024, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+g manifest: Invalid extension permission: resource://pdf.js/
+1681400375302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681400391710	Marionette	INFO	Listening on port 58701
+DevTools listening on true
+1681400392245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+1681400416562	Marionette	INFO	Stopped listening on port 58701
+[Parent 8892, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1681412244815	geckodriver	INFO	Listening on 127.0.0.1:64808
+1681412247878	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileFrxj4H"
+*** You are running in headless mode.
+1681412249457	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681412249746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681412249747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681412249747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681412249747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681412255057	Marionette	INFO	Listening on port 64814
+DevTools listening on true
+1681412255389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8764, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681439310151	Marionette	INFO	Stopped listening on port 64814
+emote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileEi6R8Q"
+*** You are running in headless mode.
+1681412286919	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681412287171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681412287171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681412287171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681412287171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681412292120	Marionette	INFO	Listening on port 64879
+DevTools listening on true
+1681412292306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 11352, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11352, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 11352, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681439321338	Marionette	INFO	Stopped listening on port 64879
+etworkStatus
+1681412404059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681412404059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681412404059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681412404060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681412416117	Marionette	INFO	Listening on port 64966
+DevTools listening on true
+1681412416432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 13256, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 13256, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 13256, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 13256, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 13256, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13256, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681439310795	Marionette	INFO	Stopped listening on port 64966
+alid extension permission: resource://pdf.js/
+1681412758674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681412780076	Marionette	INFO	Listening on port 65092
+DevTools listening on true
+1681412781592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: , line 0: uncaught exception: Object
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4276, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681439310253	Marionette	INFO	Stopped listening on port 65092
+emp\\rust_mozprofile9Q5nk1"
+*** You are running in headless mode.
+1681412813326	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681412814115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681412814115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681412814116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681412814116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681412845051	Marionette	INFO	Listening on port 65169
+DevTools listening on true
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+nner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileERsYcP"
+*** You are running in headless mode.
+1681412892187	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681412893299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681412893299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681412893300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681412893300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681412916249	Marionette	INFO	Listening on port 65228
+DevTools listening on true
+1681412916629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+1681412934902	geckodriver	INFO	Listening on 127.0.0.1:65298
+1681412937864	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-de1681412949432	Marionette	INFO	Stopped listening on port 65228
+te" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileFa5hoO"
+*** You are running in headless mode.
+1681412945213	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681412945794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681412945794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681412945794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681412945795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681412965289	Marionette	INFO	Listening on port 65304
+DevTools listening on true
+1681412966101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1681413004983	Marionette	INFO	Stopped listening on port 65304
+1681413036682	geckodriver	INFO	Listening on 127.0.0.1:65401
+1681413039879	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilecEp7bv"
+*** You are running in headless mode.
+1681413046381	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681413047649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681413047649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681413047649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681413047649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681413067114	Marionette	INFO	Listening on port 65408
+DevTools listening on true
+1681413069431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is 1681413093212	mozrun1681413107221	Marionette	INFO	Stopped listening on port 65408
+illa Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileSkv4fw"
+*** You are running in headless mode.
+1681413097080	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681413097636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681413097636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681413097636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681413097636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681413118581	Marionette	INFO	Listening on port 65475
+DevTools listening on true
+1681413118922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12944, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681439314761	Marionette	INFO	Stopped listening on port 65475
+mote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileWjKWus"
+*** You are running in headless mode.
+1681413148801	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681413150241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681413150241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681413150242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681413150243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681413180169	Marionette	INFO	Listening on port 49165
+DevTools listening on true
+1681413180242	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED:
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: NS_ERROR_UNEXPECTED:
+JavaScript error: resource:///modules/ContentObservers.js, line 42: TypeError: aContentWindow is null
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1681413203067	Marionette	INFO	Stopped listening on port 49165
+1681413383116	geckodriver	INFO	Listening on 127.0.0.1:49264
+1681413387349	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilegqgpAf"
+*** You are running in headless mode.
+1681413395078	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681413395867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681413395867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681413395868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681413395868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681413417459	Marionette	INFO	Listening on port 49271
+DevTools listening on true
+1681413418087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1681413451736	Marionette	INFO	Stopped listening on port 49271
+1681438884320	geckodriver	INFO	Listening on 127.0.0.1:63316
+1681438888204	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileUCdT1U"
+*** You are running in headless mode.
+1681438922215	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681438925268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681438925268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681438925268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681438925268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681438973876	Marionette	INFO	Listening on port 63328
+DevTools listening on true
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 1720, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681441013771	Marionette	INFO	Stopped listening on port 63328
+emote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilejB9Pi1"
+*** You are running in headless mode.
+1681439438278	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681439438596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681439438596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681439438597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681439438597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681439443531	Marionette	INFO	Listening on port 63543
+DevTools listening on true
+1681439443744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/9c37c93/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 11400, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 11400, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11400, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+ifest: Invalid extension permission: networkStatus
+1681439545152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681439545153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681439545153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681439545154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681439551366	Marionette	INFO	Listening on port 63624
+DevTools listening on true
+1681439552003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+Exiting due to channel error.
+Listening on 127.0.0.1:63794
+1681439769347	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileAOdj68"
+*** You are running in headless mode.
+1681439771155	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681439771396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681439771397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681439771397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681439771397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681439777148	Marionette	INFO	Listening on port 63802
+DevTools listening on true
+1681439777411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11156, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681440782782	Marionette	INFO	Stopped listening on port 63802
+mote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilezLCPcb"
+*** You are running in headless mode.
+1681439858911	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681439859307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681439859308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681439859308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681439859308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681439866936	Marionette	INFO	Listening on port 55595
+DevTools listening on true
+1681439867588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+1681440068747	geckodriver	INFO	Listening on 127.0.0.1:55724
+1681440071999	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileJ8H5bh"
+*** You are running in headless mode.
+1681440074679	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681440075057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681440075057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681440075058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681440075058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681440083000	Marionette	INFO	Listening on port 55732
+DevTools listening on true
+1681440083468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15964, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681440772828	Marionette	INFO	Stopped listening on port 55732
+mote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileBjt0Qd"
+*** You are running in headless mode.
+1681440223008	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681440223527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681440223527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681440223527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681440223540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681440235612	Marionette	INFO	Listening on port 55823
+DevTools listening on true
+1681440235920	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1681440249677	Marionette	INFO	Stopped listening on port 55823
+1681440378944	geckodriver	INFO	Listening on 127.0.0.1:55913
+1681440382192	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilegQfsgx"
+*** You are running in headless mode.
+1681440393875	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681440394795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681440394795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681440394796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681440394796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681440426773	Marionette	INFO	Listening on port 55919
+DevTools listening on true
+1681440428868	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1681440459502	Marionette	INFO	Stopped listening on port 55919
+1681440569704	geckodriver	INFO	Listening on 127.0.0.1:55999
+1681440573818	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileN4Iwer"
+*** You are running in headless mode.
+1681440576844	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681440577249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681440577249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681440577249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681440577249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681440593491	Marionette	INFO	Listening on port 56006
+DevTools listening on true
+1681440593865	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1681440599408	Marionette	INFO	Stopped listening on port 56006
+1681440672501	geckodriver	INFO	Listening on 127.0.0.1:61375
+1681440676275	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofiledYVudm"
+*** You are running in headless mode.
+1681440679802	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681440680347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681440680347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681440680347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681440680349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681440689852	Marionette	INFO	Listening on port 61383
+DevTools listening on true
+1681440689976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/9c37c93/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/9c37c93/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/9c37c93/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4612, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1681440779119	Marionette	INFO	Stopped listening on port 61383
+1681440807287	geckodriver	INFO	Listening on 127.0.0.1:61454
+1681440810531	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileG3L2Ij"
+*** You are running in headless mode.
+1681440811798	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681440812009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681440812010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681440812010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681440812010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681440816154	Marionette	INFO	Listening on port 61460
+DevTools listening on true
+1681440816769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14916, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681441008301	Marionette	INFO	Stopped listening on port 61460
+mote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileTMCOUr"
+*** You are running in headless mode.
+1681440956727	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681440957736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681440957736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681440957736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681440957737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681440962630	Marionette	INFO	Listening on port 61549
+DevTools listening on true
+1681440963022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+Exiting due to channel error.
+1681443173896	geckodriver	INFO	Listening on 127.0.0.1:50275
+1681443181772	geckodriver	INFO	Listening on 127.0.0.1:50287
+1681443184824	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilevHBxdB"
+*** You are running in headless mode.
+1681443186223	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681443186450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681443186450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681443186450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681443186451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681443190870	Marionette	INFO	Listening on port 50294
+DevTools listening on true
+1681443191234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7832, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1681445042219	Marionette	INFO	Stopped listening on port 50294
+ Invalid extension permission: networkStatus
+1681444947979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681444947979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681444947979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681444947979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681444953048	Marionette	INFO	Listening on port 60674
+DevTools listening on true
+1681444953213	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13932, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681445037432	Marionette	INFO	Stopped listening on port 60674
+mote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileiAIcku"
+*** You are running in headless mode.
+1681444982715	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681444983067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681444983067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681444983067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681444983067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681444986019	Marionette	INFO	Listening on port 60962
+DevTools listening on true
+1681444986236	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15548, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681445035507	Marionette	INFO	Stopped listening on port 60962
+45008366	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681445008660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681445008660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681445008661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681445008661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681445013324	Marionette	INFO	Listening on port 61124
+DevTools listening on true
+1681445014712	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3564, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681445031239	Marionette	INFO	Stopped listening on port 61124
+1681445064981	geckodriver	INFO	Listening on 127.0.0.1:61496
+1681445068072	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofiletq2PIs"
+*** You are running in headless mode.
+1681445069004	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681445069261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681445069261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681445069261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681445069262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681445072558	Marionette	INFO	Listening on port 61502
+DevTools listening on true
+1681445072869	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 16412, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681447791866	Marionette	INFO	Stopped listening on port 61502
+45156452	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681445156621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681445156621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681445156621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681445156621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681445159791	Marionette	INFO	Listening on port 62083
+DevTools listening on true
+1681445159945	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 4404, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681447795777	Marionette	INFO	Stopped listening on port 62083
+447132391	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681447132562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681447132562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681447132562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681447132563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681447136132	Marionette	INFO	Listening on port 57645
+DevTools listening on true
+1681447136418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+Exiting due to channel error.
+Listening on 127.0.0.1:57733
+1681447310771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileO5eiEx"
+*** You are running in headless mode.
+1681447312267	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681447312499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681447312499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681447312499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681447312500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681447315903	Marionette	INFO	Listening on port 57739
+DevTools listening on true
+1681447316295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1681448053887	geckodriver	INFO	Listening on 127.0.0.1:62087
+1681448057041	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilesp5ECF"
+*** You are running in headless mode.
+1681448058373	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681448058561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681448058561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681448058562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681448058562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681448061998	Marionette	INFO	Listening on port 62095
+DevTools listening on true
+1681448062345	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 2576, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 2576, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459219970	Marionette	INFO	Stopped listening on port 62095
+1450714201	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681450714369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681450714369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681450714369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681450714370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681450717659	Marionette	INFO	Listening on port 60497
+DevTools listening on true
+1681450717852	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13044, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 13044, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459213234	Marionette	INFO	Stopped listening on port 60497
+50910519	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681450910685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681450910685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681450910685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681450910685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681450914448	Marionette	INFO	Listening on port 60560
+DevTools listening on true
+1681450914880	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13720, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 13720, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459206745	Marionette	INFO	Stopped listening on port 60560
+51141823	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681451141987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681451141987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681451141987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681451141987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681451145052	Marionette	INFO	Listening on port 60624
+DevTools listening on true
+1681451145271	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 8288, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459208695	Marionette	INFO	Stopped listening on port 60624
+emote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileQX8QER"
+*** You are running in headless mode.
+1681451230935	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681451231101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681451231101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681451231101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681451231101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681451234687	Marionette	INFO	Listening on port 60682
+DevTools listening on true
+1681451234984	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 10092, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459217833	Marionette	INFO	Stopped listening on port 60682
+mote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileP8vdOC"
+*** You are running in headless mode.
+1681451900309	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681451900514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681451900514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681451900514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681451900514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681451903690	Marionette	INFO	Listening on port 60825
+DevTools listening on true
+1681451904173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3732, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459199455	Marionette	INFO	Stopped listening on port 60825
+emote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileBfOaQc"
+*** You are running in headless mode.
+1681451980716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681451981092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681451981092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681451981092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681451981094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681451985699	Marionette	INFO	Listening on port 60910
+DevTools listening on true
+1681451986508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 6544, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 6544, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 6544, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6544, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459196922	Marionette	INFO	Stopped listening on port 60910
+illaAddons
+1681452191705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681452191705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681452191705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681452194893	Marionette	INFO	Listening on port 61066
+DevTools listening on true
+1681452194985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 3692, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 3692, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3692, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459197960	Marionette	INFO	Stopped listening on port 61066
+87076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681452387076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681452387076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681452387077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681452391601	Marionette	INFO	Listening on port 61156
+DevTools listening on true
+1681452392274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+[Parent 944, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 944, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Parent 944, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 944, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 944, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1681459199838	Marionette	INFO	Stopped listening on port 61156
+/pdf.js/
+1681452536627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681452543248	Marionette	INFO	Listening on port 61287
+DevTools listening on true
+1681452543868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5164, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1681459203203	Marionette	INFO	Stopped listening on port 61287
+ifest: Invalid extension permission: networkStatus
+1681452884744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681452884744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681452884744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681452884744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681452893178	Marionette	INFO	Listening on port 61368
+DevTools listening on true
+1681452893536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6044, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 6044, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 6044, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459195440	Marionette	INFO	Stopped listening on port 61368
+Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681453730746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681453730746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681453730746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681453739079	Marionette	INFO	Listening on port 63784
+DevTools listening on true
+1681453739547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12552, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+[Parent 12552, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1579290903/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12552, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459194123	Marionette	INFO	Stopped listening on port 63784
+dons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681453928611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681453928611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681453954614	Marionette	INFO	Listening on port 63982
+DevTools listening on true
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is 1681453982479	mozrun1681453991782	Marionette	INFO	Stopped listening on port 63982
+illa Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileUDCwq0"
+*** You are running in headless mode.
+1681453988735	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681453989861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681453989862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681453989862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681453989862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681454007187	Marionette	INFO	Listening on port 64038
+DevTools listening on true
+1681454008052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0053,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0053,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0053,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0053,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370128,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5084, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 5084, Gecko_IOThread] WARNING: file z:/task_1579290903/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1681459187372	Marionette	INFO	Stopped listening on port 64038
+1681459364535	geckodriver	INFO	Listening on 127.0.0.1:52959
+1681459367602	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileOi3Tod"
+*** You are running in headless mode.
+1681459369104	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459369276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459369276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459369276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459369276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459373330	Marionette	INFO	Listening on port 52966
+DevTools listening on true
+1681459373745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1681459430990	geckodriver	INFO	Listening on 127.0.0.1:53017
+1681459434020	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileG9foXF"
+*** You are running in headless mode.
+1681459435240	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459435478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459435478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459435479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459435479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459440026	Marionette	INFO	Listening on port 53025
+DevTools listening on true
+1681459440148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1681459573285	geckodriver	INFO	Listening on 127.0.0.1:53082
+1681459576353	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileaXkeVw"
+*** You are running in headless mode.
+1681459577204	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459577384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459577384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459577384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459577384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459580591	Marionette	INFO	Listening on port 53088
+DevTools listening on true
+1681459580710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1681459642519	geckodriver	INFO	Listening on 127.0.0.1:53118
+1681459652236	geckodriver	INFO	Listening on 127.0.0.1:53127
+1681459655314	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileOnmmie"
+*** You are running in headless mode.
+1681459656446	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459656684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459656685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459656685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459656685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459660881	Marionette	INFO	Listening on port 53133
+DevTools listening on true
+1681459660987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1681459686946	geckodriver	INFO	Listening on 127.0.0.1:53178
+1681459689928	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofile8z3OCm"
+*** You are running in headless mode.
+1681459691225	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459691388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459691388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459691388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459691388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459694660	Marionette	INFO	Listening on port 53184
+DevTools listening on true
+1681459695040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+1681459754438	geckodriver	INFO	Listening on 127.0.0.1:53258
+1681459757305	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofilekWhxxF"
+*** You are running in headless mode.
+1681459759050	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459759307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459759307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459759307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459759308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459766113	Marionette	INFO	Listening on port 53265
+DevTools listening on true
+1681459766649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+1681459903809	geckodriver	INFO	Listening on 127.0.0.1:53352
+1681459906835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileXC85sT"
+*** You are running in headless mode.
+1681459908385	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459909006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459909006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459909006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459909007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459914438	Marionette	INFO	Listening on port 53358
+DevTools listening on true
+1681459914907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+1681459983246	geckodriver	INFO	Listening on 127.0.0.1:53417
+1681459987136	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" ...  "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Desktop\\AppData\\Local\\Temp\\rust_mozprofileba7aBL"
+*** You are running in headless mode.
+1681459989145	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1681459989391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1681459989391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1681459989391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1681459989392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://remote/content/RemoteAgent.jsm, line 36: Error: Remote agent is disabled by preference
+1681459996270	Marionette	INFO	Listening on port 53424
+DevTools listening on true
+1681459996417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/c0aaf7d/_next/static/chunks/main-b93fbdcebbecaa2e.js, line 1: TypeError: t is undefined
